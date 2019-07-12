@@ -1,1 +1,2 @@
-sudo apt install nmap masscan
+sudo apt update --yes
+sudo apt install --yes nmap masscan
